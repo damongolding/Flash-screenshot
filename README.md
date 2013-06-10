@@ -1,7 +1,6 @@
 # AS3 Flash screenshot saver
 
 I basically use this for Flash banners when a animated GIF fallback is needed
-
 ### Usage
 
 Include the script and enable it:
