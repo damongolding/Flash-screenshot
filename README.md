@@ -1,8 +1,5 @@
-# Flash-screenshot
-
-----
-
-### AS3 Flash screenshot saver
+# AS3 Flash screenshot saver
+---
 
 I basically use this for Flash banners when a animated GIF fallback is needed
 
@@ -18,10 +15,8 @@ takeScreenshot = true;
 call the screenshot function:
 
 ```
-screenshot();
+screenshot(); //you can pass a param if you wish to delay the function being called i.e screenshot(2) will delay the action by 2s
 ```
-
-you can pass a param if you wish to delay the function being called i.e screenshot(2) will delay the action by 2s
 
 Example usage with Greensock
 
